@@ -1,6 +1,6 @@
 <?php
 
-define('API_KEY','208887950:AAFRHMU4TPBRPztspJj-DfRp9QKx-hpAiu4');
+define('API_KEY','XXX:XXX');
 
 function jockdoni($method,$datas=[]){
     $url = "https://api.telegram.org/bot".API_KEY."/".$method;
